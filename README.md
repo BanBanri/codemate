@@ -33,15 +33,15 @@ The goal is to create something that:
 - feels expressive and alive
 
 # Future Versions: V1 Features
--Core Features
--Chat interface
--Repository indexing
--Multi-file understanding
--Session memory
--File editing
--Terminal execution
--Git integration
--Local AI support
+- Core Features
+- Chat interface
+- Repository indexing
+- Multi-file understanding
+- Session memory
+- File editing
+- Terminal execution
+- Git integration
+- Local AI support
 
 
 # Current Status
