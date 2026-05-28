@@ -1,3 +1,3 @@
-# Codemante
+# Codemate
 
 Expressive AI coding companion.
