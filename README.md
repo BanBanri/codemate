@@ -32,9 +32,7 @@ The goal is to create something that:
 - actively assists development
 - feels expressive and alive
 
-
-# Future Versions
-# What V1 Would Have
+# Future Versions: V1 Features
 -Core Features
 -Chat interface
 -Repository indexing
